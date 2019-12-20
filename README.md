@@ -1,8 +1,8 @@
 Astarte App Engine
 ==================
 
-** astarte_appengine_api has been moved to
-https://github.com/astarte-platform/astarte/tree/master/apps/astarte_appengine_api ** .
+**astarte_appengine_api has been moved to
+https://github.com/astarte-platform/astarte/tree/master/apps/astarte_appengine_api .**
 
 This repository has been archived, development is no longer happening here.
 
